@@ -73,9 +73,7 @@ The top 10 users by pixel placement are as follows:
 We've made available the whole pixels dataset, with the majority of placed
 pixels (pixels from banned users were not included).
 
-You can download the data at [this
-link](https://cdn.discordapp.com/attachments/563594791770914816/858706547110838292/history.csv.gz?ref=blog.pythondiscord.com)
-or [view it on
+You can download the data [from
 Kaggle](https://www.kaggle.com/joebanks/python-discord-pixels?ref=blog.pythondiscord.com).
 
 
